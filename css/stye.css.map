@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,gBAAgB,EAAE,IAAI;CACzB;;AACD,AAAA,EAAE,CAAA;EACE,MAAM,EAAC,GAAG;CACb",
+    "sources": [
+        "../scss/stye.scss"
+    ],
+    "names": [],
+    "file": "stye.css"
+}
